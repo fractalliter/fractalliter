@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elias Rahmani
 - 👀 I’m interested in developing high quality reactive systems and Data engineering.
-- 🌱 I’m currently learning about Linux User Interfaces.
+- 🌱 I’m currently learning about Linux Programming Interfaces.
 - 💞️ I’m looking to collaborate on Microservices, Distributed Reactive Systems,and Data Engineering.
 - 📫 How to reach me, [Linkedin](https://ir.linkedin.com/in/elias-rahmani)
 
