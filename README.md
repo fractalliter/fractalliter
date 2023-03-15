@@ -8,6 +8,7 @@
 fractalliter/fractalliter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### You love numbers, ain't you?
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fractalliter)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fractalliter&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fractalliter&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fractalliter&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fractalliter&theme=default)
