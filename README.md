@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Elias Rahmani
-- 👀 I’m interested in developing high quality software and Data engineering.
-- 🌱 I’m currently learning about Linux Programming Interfaces.
-- 💞️ I’m looking to collaborate on Microservices, Batch processing ,and Data Engineering.
+- 👀 I’m interested in developing high quality distributed softwares. My main expertise are in Backend engineering including developing:
+   -  Rest API
+   -  Data integration
+   -  Batch processing
+   -  Microservices architecture
+   -  System design.
+- Besides software engineering, I am also interested in Linux, virtualization, and clouds.
+- I have a friend who believes programming in VIM doesn't make you a better software engineer and I'd say so.
+- 🌱 I’m currently learning about Financial markets and finance.
+- 💞️ I’m working as a full time employee but open to open-source contribution.
 - 📫 How to reach me, [Linkedin](https://ir.linkedin.com/in/elias-rahmani)
 
 <!---
