@@ -7,7 +7,7 @@
    -  Microservices architecture 🧬
    -  System design 🩹
 - ❕ Besides software engineering, I am also interested in Linux, virtualization, and clouds.
-- I have a friend who believes programming in VIM doesn't make you a better software engineer and I'd say so 😄.
+- 🃏 I have a friend who believes programming in VIM doesn't make you a better software engineer and I'd say so.
 - 🌱 I’m currently learning about Genarative AI and multidimentional vector spaces.
 - 💻 I’m working as a full time employee but open to open-source contribution.
 - 📫 How to reach me, [Linkedin](https://ir.linkedin.com/in/elias-rahmani)
