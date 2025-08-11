@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Elias Rahmani
-- 👀 I’m interested in developing high quality distributed softwares. My main expertise are in Backend engineering including developing:
-   -  Databases 🏬
-   -  API Development and integrations 🔌
-   -  Data integration ➕
-   -  Batch processing 🔡
+- 👀 I’m interested in developing high quality distributed softwares. My main expertise are in Backend engineering including:
+   -  API and endpoint development
+   -  Batch processing 🔡 for data integration
    -  Microservices architecture 🧬
    -  System design 🩹
 - ❕ Besides software engineering, I am also interested in Linux, virtualization, and clouds.
